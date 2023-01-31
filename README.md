@@ -53,6 +53,7 @@ This is a list of resources for my research paper
 |Best Practices in Blockchain Testing|https://www.neotys.com/blog/best-practices-blockchain-testing/|
 |testrpc - How can I take a snapshot of Ganache or Truffle Develop state and reload later? - Ethereum Stack Exchange|https://ethereum.stackexchange.com/questions/40153/how-can-i-take-a-snapshot-of-ganache-or-truffle-develop-state-and-reload-later|
 |testing - Branch a Truffle test into various Ganache blockchain states - Ethereum Stack Exchange|https://ethereum.stackexchange.com/questions/45033/branch-a-truffle-test-into-various-ganache-blockchain-states|
+
 ### Deploy
 | Name          | URL                                                                                                 |
 | ------------- |:------------------:                                                                                 |
