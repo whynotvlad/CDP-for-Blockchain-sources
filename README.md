@@ -63,6 +63,9 @@ This is a list of resources for my research paper
 |Deploying and interacting with smart contracts |https://docs.openzeppelin.com/learn/deploying-and-interacting|
 |Hardhat : Ethereum development environment for professionals by Nomic Labs|https://hardhat.org/plugins/hardhat-deploy.html|
 |How to Simply Deploy a Smart Contract on Ethereum (Part 1) : by Pascal Marco Caversaccio : Better Programming|https://betterprogramming.pub/how-to-simply-deploy-a-smart-contract-on-ethereum-714c692e00c|
+|Ansible The Best Tool For Blockchain Developers To Deploy : by Yehia Tarek : Coinmonks : Medium|https://medium.com/coinmonks/ansible-the-best-tool-for-blockchain-developers-to-deploy-dba9d2b9eb58|
+|Blockchain Automation Framework. Why automate?|https://sidnaik1989.medium.com/blockchain-automation-framework-d1a48a1494d7|
+|Terraform template that will setup a fast syncing ethereum node compliant to be paired with an Orbs (hybrid blockchain) node|https://github.com/orbs-network/terraform-ethereum-node|
 
 ### Upgrading smart contracts
 | Name          | URL                                                                                                 |
