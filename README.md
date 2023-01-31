@@ -56,10 +56,33 @@ This is a list of resources for my research paper
 ### Deploy
 | Name          | URL                                                                                                 |
 | ------------- |:------------------:                                                                                 |
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Deploying smart contracts : ethereum.org|https://ethereum.org/de/developers/docs/smart-contracts/deploying/|
+|Deploying a deterministic smart contract on Ethereum|https://chainstack.com/deploying-a-deterministic-contract-on-ethereum/?utm_term=&utm_campaign=eth00+eth-dev&utm_source=adwords&utm_medium=ppc&hsa_acc=7102112062&hsa_cam=1998691566&hsa_grp=138352142793&hsa_ad=599274815972&hsa_src=g&hsa_tgt=dsa-1749724980622&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAleOeBhBdEiwAfgmXfx4HUfrVyqm1i0vvXRpZIZBxB0UU8SVLpQJ84MYLv8gSfaUaaYmk7xoCTJYQAvD_BwE|
+|Deploy Your First Smart Contract|https://www.web3.university/tracks/create-a-smart-contract/deploy-your-first-smart-contract|
+|Deploying and interacting with smart contracts |https://docs.openzeppelin.com/learn/deploying-and-interacting|
+|Hardhat : Ethereum development environment for professionals by Nomic Labs|https://hardhat.org/plugins/hardhat-deploy.html|
+|How to Simply Deploy a Smart Contract on Ethereum (Part 1) : by Pascal Marco Caversaccio : Better Programming|https://betterprogramming.pub/how-to-simply-deploy-a-smart-contract-on-ethereum-714c692e00c|
+
+### Upgrading smart contracts
+| Name          | URL                                                                                                 |
+| ------------- |:------------------: 
+|Writing Upgradeable Contracts|https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable|
+|Proxy Upgrade Pattern, Contract registry pattern|https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies|
+|Functions in Solidity|https://docs.soliditylang.org/en/v0.6.12/contracts.html#fallback-function|
+|Selfdestruct mechanism|https://www.alchemy.com/overviews/selfdestruct-solidity|
+|Open Zeppelin Upgradeable Contracts|https://www.youtube.com/watch?v=JgSj7IiE4jA&t=203s|
+
+### Test Environment
+| Name          | URL                                                                                                 |
+| ------------- |:------------------: 
+|Replicate Ethereum’s mainnet in a development environment with Ganache’s forking feature : by Sam Richards : Medium|https://medium.com/@samajammin/how-to-interact-with-ethereums-mainnet-in-a-development-environment-with-ganache-3d8649df0876|
+|Creating a local test environment for Ethereum Smart Contracts|https://medium.com/@adamh90/creating-a-local-test-environment-for-ethereum-smart-contracts-1f638efca020|
+|Mainnet forking : Hardhat : Ethereum development environment for professionals by Nomic Labs|https://hardhat.org/guides/mainnet-forking.html|
+
+### Ethereum Tools
+| Name          | URL                                                                                                 |
+| ------------- |:------------------: 
+|Blockchain Tools That Developers Love : 101 Blockchains|https://101blockchains.com/blockchain-tools/|
+|10 Best Ethereum Development Tools : 101 Blockchains|https://101blockchains.com/best-ethereum-development-tools/|
+|5 Popular Tools for Testing Blockchain Applications|ttps://www.cigniti.com/blog/5-popular-tools-for-testing-blockchain-applications/|
+|Security Tools - Ethereum Smart Contract Best Practices|https://consensys.github.io/smart-contract-best-practices/security_tools/|
