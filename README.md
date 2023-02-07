@@ -88,5 +88,5 @@ This is a list of resources for my research paper
 | ------------- |:------------------: 
 |Blockchain Tools That Developers Love : 101 Blockchains|https://101blockchains.com/blockchain-tools/|
 |10 Best Ethereum Development Tools : 101 Blockchains|https://101blockchains.com/best-ethereum-development-tools/|
-|5 Popular Tools for Testing Blockchain Applications|ttps://www.cigniti.com/blog/5-popular-tools-for-testing-blockchain-applications/|
+|5 Popular Tools for Testing Blockchain Applications|https://www.cigniti.com/blog/5-popular-tools-for-testing-blockchain-applications/|
 |Security Tools - Ethereum Smart Contract Best Practices|https://consensys.github.io/smart-contract-best-practices/security_tools/|
