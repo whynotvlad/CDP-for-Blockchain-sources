@@ -91,3 +91,5 @@ This is a list of resources for my research paper
 |5 Popular Tools for Testing Blockchain Applications|https://www.cigniti.com/blog/5-popular-tools-for-testing-blockchain-applications/|
 |Security Tools - Ethereum Smart Contract Best Practices|https://consensys.github.io/smart-contract-best-practices/security_tools/|
 |Top 4 Ethereum testnets for testing smart contracts| https://ethereum.org/en/developers/docs/networks/|
+| Ansible - Automation Platform | https://www.ansible.com |
+| Terraform - Automate Infrastructure on Any Cloud | https://www.terraform.io |
