@@ -93,3 +93,4 @@ This is a list of resources for my research paper
 |Terraform - Automate Infrastructure on Any Cloud | https://www.terraform.io |
 |Hardhat - Ethereum development environment for professionals|https://hardhat.org|
 |Immunefi - Web3's leading bug bounty platform|https://immunefi.com|
+|HackerOne|https://www.hackerone.com|
