@@ -53,6 +53,7 @@ This is a list of resources for my research paper
 |testrpc - How can I take a snapshot of Ganache or Truffle Develop state and reload later? - Ethereum Stack Exchange|https://ethereum.stackexchange.com/questions/40153/how-can-i-take-a-snapshot-of-ganache-or-truffle-develop-state-and-reload-later|
 |testing - Branch a Truffle test into various Ganache blockchain states - Ethereum Stack Exchange|https://ethereum.stackexchange.com/questions/45033/branch-a-truffle-test-into-various-ganache-blockchain-states|
 |SOLIDITY AND TRUFFLE CONTINUOUS INTEGRATION SETUP|https://ethereum.org/en/developers/tutorials/solidity-and-truffle-continuous-integration-setup/|
+|Performance testing of blockchain applications |https://www.testingmind.com/performance-testing-of-blockchain-applications/|
 
 ### Deploy
 | Name          | URL                                                                                                 |
