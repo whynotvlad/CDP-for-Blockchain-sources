@@ -92,3 +92,4 @@ This is a list of resources for my research paper
 |Ansible - Automation Platform | https://www.ansible.com |
 |Terraform - Automate Infrastructure on Any Cloud | https://www.terraform.io |
 |Hardhat - Ethereum development environment for professionals|https://hardhat.org|
+|Immunefi - Web3's leading bug bounty platform|https://immunefi.com|
