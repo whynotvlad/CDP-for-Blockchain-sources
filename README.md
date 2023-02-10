@@ -96,3 +96,5 @@ This is a list of resources for my research paper
 |Hardhat - Ethereum development environment for professionals|https://hardhat.org|
 |Immunefi - Web3's leading bug bounty platform|https://immunefi.com|
 |HackerOne|https://www.hackerone.com|
+|Hacken |https://hacken.io/services/blockchain-security/ethereum-smart-contract-security-audit/|
+|ImmuneBytes|https://www.immunebytes.com/ethereum-smart-contract-audit/|
